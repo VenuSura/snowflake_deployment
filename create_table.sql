@@ -1,1 +1,1 @@
-create or replace employee(Id number, Name varchar(10));
+create or replace table employee (emp_id number, emp_name varchar2(10)); 
